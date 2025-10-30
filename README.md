@@ -7,7 +7,21 @@ Here it is: the "Tropical Focus IV".
 
 ```
 #electronicmusic #soundtrack #club #tropical #house
+
+  File: Audios/Tropical-Focus-IV.mp3
+  Size: 12500992        Blocks: 24416      IO Block: 4096   regular file
+Access: 2025-10-29 13:16:04.463617556 +0800
+Modify: 2025-10-29 10:03:46.582300467 +0800
+Change: 2025-10-29 10:18:28.581977378 +0800
+ Birth: 2025-10-29 10:03:46.570300416 +0800
+
+On Published Date: 2025-10-29
+On YouTube since : 2026-02-14
 ```
+
+[YouTube](https://www.youtube.com/watch?v=b94iOTEjd1U) |
+[Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 
 
 
