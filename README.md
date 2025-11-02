@@ -21,6 +21,8 @@ On YouTube since : 2026-02-14
 
 [YouTube](https://www.youtube.com/watch?v=b94iOTEjd1U)
 
+* [Agreed GIMP License](.internals/terms-of-services/GimpORG-Privacy-Policy.pdf)
+* [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG_License.pdf)
 * [Agreed Perchance.org Terms of Service](.internals/terms-of-services/PerchanceORG_Terms-of-Service.pdf)
 * [Agreed Perchance.org Privacy Policy](.internals/privacy-policy/PerchanceORG-Privacy-Policy.pdf)
 * [Agreed OBS License](.internals/terms-of-services/OBS_LICENSE.txt)
