@@ -21,7 +21,9 @@ On YouTube since : 2026-02-14
 
 [YouTube](https://www.youtube.com/watch?v=b94iOTEjd1U) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed OBS License](.internals/terms-of-services/OBS_LICENSE.txt) |
+[Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 
 
 
