@@ -8,15 +8,15 @@ Here it is: the "Tropical Focus IV".
 ```
 #electronicmusic #soundtrack #club #tropical #house
 
-  File: Audios/Tropical-Focus-IV.mp3
+  File: Audios/04_Tropical-Focus-IV.mp3
   Size: 12500992        Blocks: 24416      IO Block: 4096   regular file
-Access: 2025-10-29 13:16:04.463617556 +0800
-Modify: 2025-10-29 10:03:46.582300467 +0800
-Change: 2025-10-29 10:18:28.581977378 +0800
+Access: 2025-11-12 16:02:03.909176782 +0800
+Modify: 2025-11-02 07:11:21.477320196 +0800
+Change: 2025-11-13 11:34:40.131882116 +0800
  Birth: 2025-10-29 10:03:46.570300416 +0800
 
 On Published Date: 2025-10-29
-On YouTube since : 2026-02-14
+On YouTube since : 2025-10-29
 ```
 
 [YouTube](https://www.youtube.com/watch?v=b94iOTEjd1U)
@@ -32,6 +32,7 @@ On YouTube since : 2026-02-14
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -52,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Tropical Focus IV
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-tropical-focus-iv
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Tropical Focus IV
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-tropical-focus-iv
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-tropical-focus-iv
 --------------------------------------------------------------------------------
 ```
 
